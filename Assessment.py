@@ -1,1 +1,1 @@
-from tk import 
+print("www.google.com")
